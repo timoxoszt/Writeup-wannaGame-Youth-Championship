@@ -1,2 +1,3 @@
-# writeup-picoCTF
-writeup picoCTF
+# Writeup wannaGame Youth Championship 2022
+
+- Web Exploitation
